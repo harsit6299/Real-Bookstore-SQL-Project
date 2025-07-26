@@ -7,7 +7,7 @@
 ## 👨‍💻 Developed by: **Harshit Kumar**
 
 🎓 Final-Year Undergraduate | 🎯 Data Enthusiast | 💻 SQL • Python • Power BI  
-📍 NIT Patna | 📬 harshitk.ug22.ec@nitp.ac.in  
+📍 NIT Patna | 📬 harshitk.nitp@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/harshit-kumar-32bbb7271) 
 
 ---
